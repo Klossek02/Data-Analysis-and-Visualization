@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="wing-chun" Count="43" ExcerptPostId="449" WikiPostId="448" />
+  <row Id="2" TagName="weight-lifting" Count="9" ExcerptPostId="834" WikiPostId="833" />
+  <row Id="4" TagName="aikido" Count="111" ExcerptPostId="23" WikiPostId="22" />
+  <row Id="5" TagName="exercise" Count="44" ExcerptPostId="434" WikiPostId="433" />
+  <row Id="8" TagName="dojo" Count="19" ExcerptPostId="524" WikiPostId="523" />
+  <row Id="9" TagName="equipment" Count="71" ExcerptPostId="850" WikiPostId="849" />
+  <row Id="10" TagName="tae-kwon-do" Count="206" ExcerptPostId="36" WikiPostId="35" />
+  <row Id="11" TagName="training" Count="294" ExcerptPostId="848" WikiPostId="847" />
+  <row Id="14" TagName="gi" Count="25" ExcerptPostId="175" WikiPostId="174" />
+  <row Id="17" TagName="dogi" Count="2" />
+  <row Id="18" TagName="drills" Count="19" ExcerptPostId="5662" WikiPostId="5661" />
+  <row Id="19" TagName="self-defense" Count="217" ExcerptPostId="880" WikiPostId="879" />
+  <row Id="22" TagName="mixed-martial-arts" Count="187" ExcerptPostId="737" WikiPostId="736" />
+  <row Id="23" TagName="weapons" Count="89" ExcerptPostId="1115" WikiPostId="1114" />
+  <row Id="24" TagName="uniform" Count="17" ExcerptPostId="9031" WikiPostId="9030" />
+  <row Id="27" TagName="punching" Count="91" ExcerptPostId="436" WikiPostId="435" />
+  <row Id="31" TagName="style" Count="61" ExcerptPostId="8997" WikiPostId="8996" />
+  <row Id="33" TagName="health" Count="38" ExcerptPostId="1148" WikiPostId="1147" />
+  <row Id="34" TagName="safety" Count="66" ExcerptPostId="1121" WikiPostId="1120" />
+  <row Id="36" TagName="ninjutsu" Count="12" ExcerptPostId="49" WikiPostId="48" />
+  <row Id="37" TagName="teaching" Count="58" ExcerptPostId="1119" WikiPostId="1118" />
+  <row Id="38" TagName="brazilian-jiu-jitsu" Count="190" ExcerptPostId="731" WikiPostId="730" />
+  <row Id="39" TagName="weight" Count="13" ExcerptPostId="9012" WikiPostId="9011" />
+  <row Id="45" TagName="anatomy" Count="18" />
+  <row Id="48" TagName="relaxation" Count="5" ExcerptPostId="9049" WikiPostId="9048" />
+  <row Id="49" TagName="judo" Count="202" ExcerptPostId="729" WikiPostId="728" />
+  <row Id="51" TagName="hapkido" Count="19" ExcerptPostId="86" WikiPostId="85" />
+  <row Id="52" TagName="technique" Count="229" ExcerptPostId="1117" WikiPostId="1116" />
+  <row Id="53" TagName="terminology" Count="79" ExcerptPostId="8474" WikiPostId="8473" />
+  <row Id="55" TagName="strength" Count="41" ExcerptPostId="1150" WikiPostId="1149" />
+  <row Id="56" TagName="stretching" Count="23" ExcerptPostId="8999" WikiPostId="8998" />
+  <row Id="57" TagName="karate" Count="191" ExcerptPostId="739" WikiPostId="738" />
+  <row Id="58" TagName="balance" Count="14" ExcerptPostId="8995" WikiPostId="8994" />
+  <row Id="63" TagName="fist" Count="5" ExcerptPostId="9008" WikiPostId="9007" />
+  <row Id="68" TagName="power" Count="28" ExcerptPostId="9047" WikiPostId="9046" />
+  <row Id="69" TagName="speed" Count="12" ExcerptPostId="8989" WikiPostId="8988" />
+  <row Id="70" TagName="self-training" Count="88" ExcerptPostId="5660" WikiPostId="5659" />
+  <row Id="72" TagName="recommendation" Count="74" ExcerptPostId="883" WikiPostId="882" />
+  <row Id="73" TagName="history" Count="112" ExcerptPostId="990" WikiPostId="989" />
+  <row Id="74" TagName="injury" Count="96" ExcerptPostId="4310" WikiPostId="4309" />
+  <row Id="75" TagName="kickboxing" Count="74" ExcerptPostId="1156" WikiPostId="1155" />
+  <row Id="76" TagName="prevention" Count="6" ExcerptPostId="5680" WikiPostId="5679" />
+  <row Id="77" TagName="footwork" Count="22" ExcerptPostId="5678" WikiPostId="5677" />
+  <row Id="78" TagName="defense" Count="40" ExcerptPostId="8991" WikiPostId="8990" />
+  <row Id="81" TagName="krav-maga" Count="59" ExcerptPostId="715" WikiPostId="714" />
+  <row Id="87" TagName="escrima" Count="5" ExcerptPostId="781" WikiPostId="780" />
+  <row Id="89" TagName="kicking" Count="134" ExcerptPostId="832" WikiPostId="831" />
+  <row Id="91" TagName="mobility" Count="7" ExcerptPostId="9053" WikiPostId="9052" />
+  <row Id="95" TagName="forms" Count="73" ExcerptPostId="713" WikiPostId="712" />
+  <row Id="99" TagName="grappling" Count="65" ExcerptPostId="735" WikiPostId="734" />
+  <row Id="100" TagName="closed-guard" Count="5" ExcerptPostId="836" WikiPostId="835" />
+  <row Id="101" TagName="knife-fighting" Count="25" ExcerptPostId="5670" WikiPostId="5669" />
+  <row Id="106" TagName="rapier" Count="5" ExcerptPostId="5676" WikiPostId="5675" />
+  <row Id="108" TagName="sword" Count="45" ExcerptPostId="5656" WikiPostId="5655" />
+  <row Id="109" TagName="firearms" Count="11" />
+  <row Id="110" TagName="stance" Count="48" ExcerptPostId="273" WikiPostId="272" />
+  <row Id="111" TagName="flexibility" Count="35" ExcerptPostId="9029" WikiPostId="9028" />
+  <row Id="117" TagName="books" Count="12" ExcerptPostId="5666" WikiPostId="5665" />
+  <row Id="119" TagName="okinawa" Count="5" ExcerptPostId="9067" WikiPostId="9066" />
+  <row Id="120" TagName="bo-staff" Count="8" ExcerptPostId="1294" WikiPostId="1293" />
+  <row Id="121" TagName="boxing" Count="182" ExcerptPostId="743" WikiPostId="742" />
+  <row Id="122" TagName="sparring" Count="107" ExcerptPostId="741" WikiPostId="740" />
+  <row Id="127" TagName="striking" Count="59" ExcerptPostId="840" WikiPostId="839" />
+  <row Id="129" TagName="bowing" Count="6" ExcerptPostId="9016" WikiPostId="9015" />
+  <row Id="130" TagName="kung-fu" Count="117" ExcerptPostId="2786" WikiPostId="2785" />
+  <row Id="132" TagName="application" Count="11" ExcerptPostId="9073" WikiPostId="9072" />
+  <row Id="140" TagName="positions" Count="9" ExcerptPostId="10554" WikiPostId="10553" />
+  <row Id="141" TagName="etiquette" Count="28" ExcerptPostId="4633" WikiPostId="4632" />
+  <row Id="147" TagName="meditation" Count="10" ExcerptPostId="9010" WikiPostId="9009" />
+  <row Id="148" TagName="belt" Count="44" ExcerptPostId="6119" WikiPostId="6118" />
+  <row Id="153" TagName="bokken" Count="7" ExcerptPostId="1402" WikiPostId="1401" />
+  <row Id="155" TagName="spinning-kicks" Count="11" ExcerptPostId="9022" WikiPostId="9021" />
+  <row Id="156" TagName="kempo" Count="7" ExcerptPostId="2311" WikiPostId="2310" />
+  <row Id="163" TagName="jujutsu" Count="61" ExcerptPostId="6690" WikiPostId="6689" />
+  <row Id="165" TagName="sport" Count="42" ExcerptPostId="719" WikiPostId="718" />
+  <row Id="166" TagName="olympics" Count="12" ExcerptPostId="9006" WikiPostId="9005" />
+  <row Id="167" TagName="social" Count="10" ExcerptPostId="613" WikiPostId="612" />
+  <row Id="168" TagName="itf" Count="12" ExcerptPostId="753" WikiPostId="752" />
+  <row Id="173" TagName="awareness" Count="5" ExcerptPostId="9055" WikiPostId="9054" />
+  <row Id="174" TagName="japanese" Count="36" ExcerptPostId="9001" WikiPostId="9000" />
+  <row Id="176" TagName="kendo" Count="16" ExcerptPostId="2842" WikiPostId="2841" />
+  <row Id="177" TagName="kenjutsu" Count="7" />
+  <row Id="178" TagName="philosophy" Count="19" />
+  <row Id="182" TagName="iaido" Count="10" ExcerptPostId="9051" WikiPostId="9050" />
+  <row Id="183" TagName="schools" Count="17" ExcerptPostId="5664" WikiPostId="5663" />
+  <row Id="188" TagName="mentality" Count="12" ExcerptPostId="9075" WikiPostId="9074" />
+  <row Id="191" TagName="breathing" Count="23" ExcerptPostId="9037" WikiPostId="9036" />
+  <row Id="193" TagName="capoeira" Count="21" ExcerptPostId="1160" WikiPostId="1159" />
+  <row Id="198" TagName="shoes" Count="7" ExcerptPostId="5672" WikiPostId="5671" />
+  <row Id="201" TagName="competition" Count="54" ExcerptPostId="988" WikiPostId="987" />
+  <row Id="203" TagName="internal" Count="9" ExcerptPostId="994" WikiPostId="993" />
+  <row Id="204" TagName="iaijutsu" Count="2" />
+  <row Id="207" TagName="tai-chi" Count="51" ExcerptPostId="963" WikiPostId="962" />
+  <row Id="208" TagName="push-hands" Count="2" ExcerptPostId="986" WikiPostId="985" />
+  <row Id="214" TagName="bagua" Count="5" ExcerptPostId="9041" WikiPostId="9040" />
+  <row Id="221" TagName="certification" Count="2" />
+  <row Id="240" TagName="fencing" Count="15" ExcerptPostId="5668" WikiPostId="5667" />
+  <row Id="242" TagName="escapes" Count="10" ExcerptPostId="9020" WikiPostId="9019" />
+  <row Id="249" TagName="shu-ha-ri" Count="3" ExcerptPostId="1395" WikiPostId="1394" />
+  <row Id="252" TagName="medical-advice" Count="11" ExcerptPostId="1424" WikiPostId="1423" />
+  <row Id="268" TagName="legal" Count="2" ExcerptPostId="7647" WikiPostId="7646" />
+  <row Id="283" TagName="breaking-boards" Count="3" ExcerptPostId="9071" WikiPostId="9070" />
+  <row Id="288" TagName="katana" Count="7" ExcerptPostId="5674" WikiPostId="5673" />
+  <row Id="293" TagName="muay-thai" Count="173" ExcerptPostId="1776" WikiPostId="1775" />
+  <row Id="301" TagName="chokes" Count="33" ExcerptPostId="8993" WikiPostId="8992" />
+  <row Id="305" TagName="jeet-kune-do" Count="15" ExcerptPostId="8837" WikiPostId="8836" />
+  <row Id="306" TagName="shaolin" Count="13" ExcerptPostId="9045" WikiPostId="9044" />
+  <row Id="307" TagName="southern-shaolin" Count="4" />
+  <row Id="308" TagName="short-stick" Count="4" ExcerptPostId="9061" WikiPostId="9060" />
+  <row Id="309" TagName="wrestling" Count="34" ExcerptPostId="9035" WikiPostId="9034" />
+  <row Id="312" TagName="shield" Count="4" ExcerptPostId="9069" WikiPostId="9068" />
+  <row Id="317" TagName="no-gi" Count="5" ExcerptPostId="8831" WikiPostId="8830" />
+  <row Id="319" TagName="tricks" Count="1" ExcerptPostId="9077" WikiPostId="9076" />
+  <row Id="323" TagName="knees" Count="5" ExcerptPostId="9059" WikiPostId="9058" />
+  <row Id="327" TagName="attack" Count="9" ExcerptPostId="6141" WikiPostId="6140" />
+  <row Id="333" TagName="kali" Count="5" ExcerptPostId="3041" WikiPostId="3040" />
+  <row Id="336" TagName="blocking" Count="15" ExcerptPostId="9033" WikiPostId="9032" />
+  <row Id="338" TagName="systema" Count="7" ExcerptPostId="4205" WikiPostId="4204" />
+  <row Id="339" TagName="children" Count="13" ExcerptPostId="4232" WikiPostId="4231" />
+  <row Id="342" TagName="multiple-attackers" Count="13" ExcerptPostId="6183" WikiPostId="6182" />
+  <row Id="344" TagName="cross-training" Count="3" ExcerptPostId="4509" WikiPostId="4508" />
+  <row Id="345" TagName="soreness" Count="3" />
+  <row Id="350" TagName="wrists" Count="3" />
+  <row Id="354" TagName="qi" Count="7" ExcerptPostId="5278" WikiPostId="5277" />
+  <row Id="357" TagName="endurance" Count="7" ExcerptPostId="9057" WikiPostId="9056" />
+  <row Id="360" TagName="identification" Count="34" ExcerptPostId="8985" WikiPostId="8984" />
+  <row Id="363" TagName="fitness" Count="10" ExcerptPostId="7668" WikiPostId="7667" />
+  <row Id="365" TagName="kalaripayattu" Count="4" ExcerptPostId="4871" WikiPostId="4870" />
+  <row Id="367" TagName="fma" Count="2" ExcerptPostId="6146" WikiPostId="6145" />
+  <row Id="368" TagName="arnis" Count="2" />
+  <row Id="372" TagName="samurai" Count="4" ExcerptPostId="5234" WikiPostId="5233" />
+  <row Id="373" TagName="takedown" Count="4" ExcerptPostId="5232" WikiPostId="5231" />
+  <row Id="382" TagName="ufc" Count="13" ExcerptPostId="8833" WikiPostId="8832" />
+  <row Id="383" TagName="tricking" Count="5" ExcerptPostId="5796" WikiPostId="5795" />
+  <row Id="384" TagName="pressure-points" Count="6" ExcerptPostId="9065" WikiPostId="9064" />
+  <row Id="387" TagName="women" Count="11" ExcerptPostId="9085" WikiPostId="9084" />
+  <row Id="388" TagName="jump-kick" Count="11" ExcerptPostId="9014" WikiPostId="9013" />
+  <row Id="390" TagName="wrist-lock" Count="5" ExcerptPostId="9079" WikiPostId="9078" />
+  <row Id="391" TagName="shotokan" Count="10" ExcerptPostId="9018" WikiPostId="9017" />
+  <row Id="393" TagName="joint-lock" Count="20" ExcerptPostId="9043" WikiPostId="9042" />
+  <row Id="395" TagName="streetfight" Count="62" ExcerptPostId="8793" WikiPostId="8792" />
+  <row Id="397" TagName="throwing" Count="53" ExcerptPostId="8740" WikiPostId="8739" />
+  <row Id="398" TagName="protective-equipment" Count="39" ExcerptPostId="8987" WikiPostId="8986" />
+  <row Id="399" TagName="sexism" Count="3" ExcerptPostId="6242" WikiPostId="6241" />
+  <row Id="400" TagName="gender" Count="12" ExcerptPostId="6244" WikiPostId="6243" />
+  <row Id="401" TagName="mysticism" Count="1" ExcerptPostId="6408" WikiPostId="6407" />
+  <row Id="410" TagName="grading" Count="21" ExcerptPostId="6594" WikiPostId="6593" />
+  <row Id="411" TagName="automatic-response" Count="2" />
+  <row Id="412" TagName="reaction" Count="6" ExcerptPostId="9081" WikiPostId="9080" />
+  <row Id="416" TagName="combat" Count="12" />
+  <row Id="420" TagName="music" Count="2" />
+  <row Id="422" TagName="bullying" Count="6" ExcerptPostId="7073" WikiPostId="7072" />
+  <row Id="425" TagName="zen" Count="1" ExcerptPostId="7132" WikiPostId="7131" />
+  <row Id="426" TagName="shodokan" Count="8" ExcerptPostId="7554" WikiPostId="7553" />
+  <row Id="429" TagName="research" Count="4" />
+  <row Id="430" TagName="archery" Count="2" ExcerptPostId="7494" WikiPostId="7493" />
+  <row Id="431" TagName="keysi-fighting-system" Count="1" ExcerptPostId="7516" WikiPostId="7515" />
+  <row Id="436" TagName="glima" Count="1" ExcerptPostId="7655" WikiPostId="7654" />
+  <row Id="437" TagName="greco-roman-wrestling" Count="1" ExcerptPostId="7657" WikiPostId="7656" />
+  <row Id="438" TagName="iwama" Count="1" ExcerptPostId="7707" WikiPostId="7706" />
+  <row Id="439" TagName="fiction" Count="3" ExcerptPostId="7796" WikiPostId="7795" />
+  <row Id="447" TagName="historic-european" Count="27" ExcerptPostId="8281" WikiPostId="8280" />
+  <row Id="451" TagName="tonfa" Count="2" />
+  <row Id="456" TagName="bruce-lee" Count="11" ExcerptPostId="9063" WikiPostId="9062" />
+  <row Id="457" TagName="pencak-silat" Count="1" ExcerptPostId="8731" WikiPostId="8730" />
+  <row Id="461" TagName="aging" Count="6" ExcerptPostId="9039" WikiPostId="9038" />
+  <row Id="462" TagName="warm-up" Count="2" />
+  <row Id="463" TagName="brain-injury" Count="15" ExcerptPostId="9027" WikiPostId="9026" />
+  <row Id="465" TagName="conditioning" Count="11" />
+  <row Id="469" TagName="tang-soo-do" Count="4" />
+  <row Id="472" TagName="pins" Count="11" ExcerptPostId="9339" WikiPostId="9338" />
+  <row Id="474" TagName="grips" Count="11" ExcerptPostId="9345" WikiPostId="9344" />
+  <row Id="476" TagName="disability" Count="9" ExcerptPostId="9389" WikiPostId="9388" />
+  <row Id="477" TagName="submissions" Count="7" ExcerptPostId="9395" WikiPostId="9394" />
+  <row Id="1479" TagName="shuriken" Count="2" ExcerptPostId="9508" WikiPostId="9507" />
+  <row Id="1480" TagName="knife-throwing" Count="1" ExcerptPostId="9510" WikiPostId="9509" />
+  <row Id="1481" TagName="sumo" Count="3" ExcerptPostId="9531" WikiPostId="9530" />
+  <row Id="1482" TagName="wushu" Count="12" />
+  <row Id="1486" TagName="kuk-sool-won" Count="1" ExcerptPostId="9720" WikiPostId="9719" />
+  <row Id="1487" TagName="sambo" Count="4" />
+  <row Id="1488" TagName="falling" Count="15" ExcerptPostId="9866" WikiPostId="9865" />
+  <row Id="1489" TagName="pehlwani" Count="2" ExcerptPostId="10443" WikiPostId="10442" />
+  <row Id="1490" TagName="tradition" Count="5" />
+  <row Id="1492" TagName="beginner" Count="12" />
+  <row Id="1493" TagName="groundwork" Count="5" />
+  <row Id="1494" TagName="covid-19" Count="2" />
+  <row Id="1495" TagName="shorinji-kempo" Count="4" />
+  <row Id="1502" TagName="bujinkan" Count="4" ExcerptPostId="10066" WikiPostId="10065" />
+  <row Id="1508" TagName="jian" Count="8" ExcerptPostId="10167" WikiPostId="10166" />
+  <row Id="1509" TagName="choreography" Count="7" ExcerptPostId="10181" WikiPostId="10180" />
+  <row Id="1515" TagName="pankration" Count="7" ExcerptPostId="10301" WikiPostId="10300" />
+  <row Id="1517" TagName="hung-gar" Count="2" />
+  <row Id="1518" TagName="kumite" Count="3" />
+  <row Id="1519" TagName="nunchaku" Count="2" />
+  <row Id="1522" TagName="kiai" Count="6" ExcerptPostId="10462" WikiPostId="10461" />
+  <row Id="1523" TagName="strategy" Count="13" ExcerptPostId="10487" WikiPostId="10486" />
+  <row Id="2524" TagName="physiology" Count="5" ExcerptPostId="12557" WikiPostId="12556" />
+  <row Id="2525" TagName="entertainment" Count="22" ExcerptPostId="12609" WikiPostId="12608" />
+  <row Id="2526" TagName="theory" Count="3" ExcerptPostId="12691" WikiPostId="12690" />
+  <row Id="2527" TagName="longsword" Count="4" ExcerptPostId="12689" WikiPostId="12688" />
+  <row Id="2530" TagName="xing-yi-quan" Count="1" ExcerptPostId="12838" WikiPostId="12837" />
+  <row Id="2532" TagName="parry" Count="3" />
+  <row Id="2533" TagName="culture" Count="3" />
+  <row Id="2544" TagName="timing" Count="1" />
+  <row Id="2545" TagName="kuzuchi" Count="1" />
+</tags>
